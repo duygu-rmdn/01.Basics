@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3/Lo5uWpGGOsAgnM7rDGimH0mt63Z8fbhmr8SaW4B/uqxf/OwNa/DWXK4fPg26xqgd2e3Qr+py8B3an7KcbYzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Exercise Streams, Files and Directories\\Test hello world\\Test hello world.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
