@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\22.5.2020\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.exe
+C:\Users\HP\source\repos\22.5.2020\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.deps.json
+C:\Users\HP\source\repos\22.5.2020\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.runtimeconfig.json
+C:\Users\HP\source\repos\22.5.2020\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.runtimeconfig.dev.json
+C:\Users\HP\source\repos\22.5.2020\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.dll
+C:\Users\HP\source\repos\22.5.2020\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.pdb
+C:\Users\HP\source\repos\22.5.2020\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\22.5.2020\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.AssemblyInfo.cs
+C:\Users\HP\source\repos\22.5.2020\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\22.5.2020\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.dll
+C:\Users\HP\source\repos\22.5.2020\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.pdb
+C:\Users\HP\source\repos\22.5.2020\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.genruntimeconfig.cache
+C:\Users\HP\source\repos\22.5.2020\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.csprojAssemblyReference.cache

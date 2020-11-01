@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CwTk+HnrN9XNkLaRFpbdtP72UPkwK/gu9DRRntotR75kau6wykkwF9DMxVEMCMILAZHw0AiLv4gH13vXb+rlVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Basics SIntax Demo\\10. Multiplication Table\\10. Multiplication Table.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Results\bin\Debug\netcoreapp3.1\Exam Results.exe
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Results\bin\Debug\netcoreapp3.1\Exam Results.deps.json
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Results\bin\Debug\netcoreapp3.1\Exam Results.runtimeconfig.json
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Results\bin\Debug\netcoreapp3.1\Exam Results.runtimeconfig.dev.json
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Results\bin\Debug\netcoreapp3.1\Exam Results.dll
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Results\bin\Debug\netcoreapp3.1\Exam Results.pdb
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Results\obj\Debug\netcoreapp3.1\Exam Results.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Results\obj\Debug\netcoreapp3.1\Exam Results.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Results\obj\Debug\netcoreapp3.1\Exam Results.AssemblyInfo.cs
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Results\obj\Debug\netcoreapp3.1\Exam Results.dll
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Results\obj\Debug\netcoreapp3.1\Exam Results.pdb

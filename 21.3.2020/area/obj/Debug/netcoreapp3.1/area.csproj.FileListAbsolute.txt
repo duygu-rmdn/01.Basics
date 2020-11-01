@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\21.3.2020\area\bin\Debug\netcoreapp3.1\area.exe
+C:\Users\HP\source\repos\21.3.2020\area\bin\Debug\netcoreapp3.1\area.deps.json
+C:\Users\HP\source\repos\21.3.2020\area\bin\Debug\netcoreapp3.1\area.runtimeconfig.json
+C:\Users\HP\source\repos\21.3.2020\area\bin\Debug\netcoreapp3.1\area.runtimeconfig.dev.json
+C:\Users\HP\source\repos\21.3.2020\area\bin\Debug\netcoreapp3.1\area.dll
+C:\Users\HP\source\repos\21.3.2020\area\bin\Debug\netcoreapp3.1\area.pdb
+C:\Users\HP\source\repos\21.3.2020\area\obj\Debug\netcoreapp3.1\area.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\21.3.2020\area\obj\Debug\netcoreapp3.1\area.AssemblyInfo.cs
+C:\Users\HP\source\repos\21.3.2020\area\obj\Debug\netcoreapp3.1\area.dll
+C:\Users\HP\source\repos\21.3.2020\area\obj\Debug\netcoreapp3.1\area.pdb

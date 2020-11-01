@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\29.3.2020\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.exe
+C:\Users\HP\source\repos\29.3.2020\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.deps.json
+C:\Users\HP\source\repos\29.3.2020\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.runtimeconfig.json
+C:\Users\HP\source\repos\29.3.2020\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.runtimeconfig.dev.json
+C:\Users\HP\source\repos\29.3.2020\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.dll
+C:\Users\HP\source\repos\29.3.2020\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.pdb
+C:\Users\HP\source\repos\29.3.2020\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\29.3.2020\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\29.3.2020\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.AssemblyInfo.cs
+C:\Users\HP\source\repos\29.3.2020\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.dll
+C:\Users\HP\source\repos\29.3.2020\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.pdb

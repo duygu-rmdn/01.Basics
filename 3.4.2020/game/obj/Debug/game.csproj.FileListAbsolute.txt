@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\3.4.2020\game\bin\Debug\game.exe.config
+C:\Users\HP\source\repos\3.4.2020\game\bin\Debug\game.exe
+C:\Users\HP\source\repos\3.4.2020\game\bin\Debug\game.pdb
+C:\Users\HP\source\repos\3.4.2020\game\obj\Debug\game.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\3.4.2020\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\HP\source\repos\3.4.2020\game\obj\Debug\game.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\3.4.2020\game\obj\Debug\game.exe
+C:\Users\HP\source\repos\3.4.2020\game\obj\Debug\game.pdb
+C:\Users\HP\source\repos\3.4.2020\game\obj\Debug\game.Form1.resources

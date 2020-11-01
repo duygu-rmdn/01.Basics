@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\3.5.2020\dfdfdf\bin\Debug\netcoreapp3.1\dfdfdf.exe
+C:\Users\HP\source\repos\3.5.2020\dfdfdf\bin\Debug\netcoreapp3.1\dfdfdf.deps.json
+C:\Users\HP\source\repos\3.5.2020\dfdfdf\bin\Debug\netcoreapp3.1\dfdfdf.runtimeconfig.json
+C:\Users\HP\source\repos\3.5.2020\dfdfdf\bin\Debug\netcoreapp3.1\dfdfdf.runtimeconfig.dev.json
+C:\Users\HP\source\repos\3.5.2020\dfdfdf\bin\Debug\netcoreapp3.1\dfdfdf.dll
+C:\Users\HP\source\repos\3.5.2020\dfdfdf\bin\Debug\netcoreapp3.1\dfdfdf.pdb
+C:\Users\HP\source\repos\3.5.2020\dfdfdf\obj\Debug\netcoreapp3.1\dfdfdf.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\3.5.2020\dfdfdf\obj\Debug\netcoreapp3.1\dfdfdf.AssemblyInfo.cs
+C:\Users\HP\source\repos\3.5.2020\dfdfdf\obj\Debug\netcoreapp3.1\dfdfdf.dll
+C:\Users\HP\source\repos\3.5.2020\dfdfdf\obj\Debug\netcoreapp3.1\dfdfdf.pdb

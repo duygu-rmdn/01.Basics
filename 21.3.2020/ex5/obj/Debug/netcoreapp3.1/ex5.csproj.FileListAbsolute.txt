@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\21.3.2020\ex5\bin\Debug\netcoreapp3.1\ex5.exe
+C:\Users\HP\source\repos\21.3.2020\ex5\bin\Debug\netcoreapp3.1\ex5.deps.json
+C:\Users\HP\source\repos\21.3.2020\ex5\bin\Debug\netcoreapp3.1\ex5.runtimeconfig.json
+C:\Users\HP\source\repos\21.3.2020\ex5\bin\Debug\netcoreapp3.1\ex5.runtimeconfig.dev.json
+C:\Users\HP\source\repos\21.3.2020\ex5\bin\Debug\netcoreapp3.1\ex5.dll
+C:\Users\HP\source\repos\21.3.2020\ex5\bin\Debug\netcoreapp3.1\ex5.pdb
+C:\Users\HP\source\repos\21.3.2020\ex5\obj\Debug\netcoreapp3.1\ex5.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\21.3.2020\ex5\obj\Debug\netcoreapp3.1\ex5.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\21.3.2020\ex5\obj\Debug\netcoreapp3.1\ex5.AssemblyInfo.cs
+C:\Users\HP\source\repos\21.3.2020\ex5\obj\Debug\netcoreapp3.1\ex5.dll
+C:\Users\HP\source\repos\21.3.2020\ex5\obj\Debug\netcoreapp3.1\ex5.pdb

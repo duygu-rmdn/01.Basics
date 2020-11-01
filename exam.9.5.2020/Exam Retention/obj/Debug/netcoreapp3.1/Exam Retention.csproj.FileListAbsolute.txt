@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Retention\bin\Debug\netcoreapp3.1\Exam Retention.exe
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Retention\bin\Debug\netcoreapp3.1\Exam Retention.deps.json
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Retention\bin\Debug\netcoreapp3.1\Exam Retention.runtimeconfig.json
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Retention\bin\Debug\netcoreapp3.1\Exam Retention.runtimeconfig.dev.json
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Retention\bin\Debug\netcoreapp3.1\Exam Retention.dll
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Retention\bin\Debug\netcoreapp3.1\Exam Retention.pdb
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Retention\obj\Debug\netcoreapp3.1\Exam Retention.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Retention\obj\Debug\netcoreapp3.1\Exam Retention.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Retention\obj\Debug\netcoreapp3.1\Exam Retention.AssemblyInfo.cs
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Retention\obj\Debug\netcoreapp3.1\Exam Retention.dll
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Retention\obj\Debug\netcoreapp3.1\Exam Retention.pdb

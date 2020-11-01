@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UyT8/tCWaj27J/hN2uTQnVykCPIk6P1DnSeJ3f3ecr/2fW0I7mr4Cg3wR1QH409KDuzoAfo4FLuEo39GcsrwlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\1.5.2020\\Cruise Games.real\\Cruise Games.real.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

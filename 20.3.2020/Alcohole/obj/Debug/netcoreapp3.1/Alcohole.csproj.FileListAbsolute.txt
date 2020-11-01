@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\20.3.2020\Alcohole\bin\Debug\netcoreapp3.1\Alcohole.exe
+C:\Users\HP\source\repos\20.3.2020\Alcohole\bin\Debug\netcoreapp3.1\Alcohole.deps.json
+C:\Users\HP\source\repos\20.3.2020\Alcohole\bin\Debug\netcoreapp3.1\Alcohole.runtimeconfig.json
+C:\Users\HP\source\repos\20.3.2020\Alcohole\bin\Debug\netcoreapp3.1\Alcohole.runtimeconfig.dev.json
+C:\Users\HP\source\repos\20.3.2020\Alcohole\bin\Debug\netcoreapp3.1\Alcohole.dll
+C:\Users\HP\source\repos\20.3.2020\Alcohole\bin\Debug\netcoreapp3.1\Alcohole.pdb
+C:\Users\HP\source\repos\20.3.2020\Alcohole\obj\Debug\netcoreapp3.1\Alcohole.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\20.3.2020\Alcohole\obj\Debug\netcoreapp3.1\Alcohole.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\20.3.2020\Alcohole\obj\Debug\netcoreapp3.1\Alcohole.AssemblyInfo.cs
+C:\Users\HP\source\repos\20.3.2020\Alcohole\obj\Debug\netcoreapp3.1\Alcohole.dll
+C:\Users\HP\source\repos\20.3.2020\Alcohole\obj\Debug\netcoreapp3.1\Alcohole.pdb

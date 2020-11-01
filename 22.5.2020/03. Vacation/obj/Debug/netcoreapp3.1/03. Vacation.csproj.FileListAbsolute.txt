@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\22.5.2020\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.exe
+C:\Users\HP\source\repos\22.5.2020\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.deps.json
+C:\Users\HP\source\repos\22.5.2020\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.runtimeconfig.json
+C:\Users\HP\source\repos\22.5.2020\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.runtimeconfig.dev.json
+C:\Users\HP\source\repos\22.5.2020\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.dll
+C:\Users\HP\source\repos\22.5.2020\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.pdb
+C:\Users\HP\source\repos\22.5.2020\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\22.5.2020\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\22.5.2020\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.AssemblyInfo.cs
+C:\Users\HP\source\repos\22.5.2020\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\22.5.2020\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.dll
+C:\Users\HP\source\repos\22.5.2020\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.pdb
+C:\Users\HP\source\repos\22.5.2020\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.genruntimeconfig.cache

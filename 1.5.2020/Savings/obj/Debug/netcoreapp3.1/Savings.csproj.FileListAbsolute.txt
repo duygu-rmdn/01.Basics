@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\1.5.2020\Savings\bin\Debug\netcoreapp3.1\Savings.exe
+C:\Users\HP\source\repos\1.5.2020\Savings\bin\Debug\netcoreapp3.1\Savings.deps.json
+C:\Users\HP\source\repos\1.5.2020\Savings\bin\Debug\netcoreapp3.1\Savings.runtimeconfig.json
+C:\Users\HP\source\repos\1.5.2020\Savings\bin\Debug\netcoreapp3.1\Savings.runtimeconfig.dev.json
+C:\Users\HP\source\repos\1.5.2020\Savings\bin\Debug\netcoreapp3.1\Savings.dll
+C:\Users\HP\source\repos\1.5.2020\Savings\bin\Debug\netcoreapp3.1\Savings.pdb
+C:\Users\HP\source\repos\1.5.2020\Savings\obj\Debug\netcoreapp3.1\Savings.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\1.5.2020\Savings\obj\Debug\netcoreapp3.1\Savings.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\1.5.2020\Savings\obj\Debug\netcoreapp3.1\Savings.AssemblyInfo.cs
+C:\Users\HP\source\repos\1.5.2020\Savings\obj\Debug\netcoreapp3.1\Savings.dll
+C:\Users\HP\source\repos\1.5.2020\Savings\obj\Debug\netcoreapp3.1\Savings.pdb

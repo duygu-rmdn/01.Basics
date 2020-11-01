@@ -1,0 +1,3 @@
+C:\Users\HP\source\repos\22.3.2020\metricConverter\obj\Debug\netcoreapp3.1\metricConverter.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\22.3.2020\metricConverter\obj\Debug\netcoreapp3.1\metricConverter.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\22.3.2020\metricConverter\obj\Debug\netcoreapp3.1\metricConverter.AssemblyInfo.cs

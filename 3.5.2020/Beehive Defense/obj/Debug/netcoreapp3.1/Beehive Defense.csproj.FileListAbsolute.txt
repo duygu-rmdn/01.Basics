@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\3.5.2020\Beehive Defense\bin\Debug\netcoreapp3.1\Beehive Defense.exe
+C:\Users\HP\source\repos\3.5.2020\Beehive Defense\bin\Debug\netcoreapp3.1\Beehive Defense.deps.json
+C:\Users\HP\source\repos\3.5.2020\Beehive Defense\bin\Debug\netcoreapp3.1\Beehive Defense.runtimeconfig.json
+C:\Users\HP\source\repos\3.5.2020\Beehive Defense\bin\Debug\netcoreapp3.1\Beehive Defense.runtimeconfig.dev.json
+C:\Users\HP\source\repos\3.5.2020\Beehive Defense\bin\Debug\netcoreapp3.1\Beehive Defense.dll
+C:\Users\HP\source\repos\3.5.2020\Beehive Defense\bin\Debug\netcoreapp3.1\Beehive Defense.pdb
+C:\Users\HP\source\repos\3.5.2020\Beehive Defense\obj\Debug\netcoreapp3.1\Beehive Defense.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\3.5.2020\Beehive Defense\obj\Debug\netcoreapp3.1\Beehive Defense.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\3.5.2020\Beehive Defense\obj\Debug\netcoreapp3.1\Beehive Defense.AssemblyInfo.cs
+C:\Users\HP\source\repos\3.5.2020\Beehive Defense\obj\Debug\netcoreapp3.1\Beehive Defense.dll
+C:\Users\HP\source\repos\3.5.2020\Beehive Defense\obj\Debug\netcoreapp3.1\Beehive Defense.pdb

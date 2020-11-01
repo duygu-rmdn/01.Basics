@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Basics SIntax Demo\FirstDemo\bin\Debug\netcoreapp3.1\FirstDemo.exe
+C:\Users\HP\source\repos\Basics SIntax Demo\FirstDemo\bin\Debug\netcoreapp3.1\FirstDemo.deps.json
+C:\Users\HP\source\repos\Basics SIntax Demo\FirstDemo\bin\Debug\netcoreapp3.1\FirstDemo.runtimeconfig.json
+C:\Users\HP\source\repos\Basics SIntax Demo\FirstDemo\bin\Debug\netcoreapp3.1\FirstDemo.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Basics SIntax Demo\FirstDemo\bin\Debug\netcoreapp3.1\FirstDemo.dll
+C:\Users\HP\source\repos\Basics SIntax Demo\FirstDemo\bin\Debug\netcoreapp3.1\FirstDemo.pdb
+C:\Users\HP\source\repos\Basics SIntax Demo\FirstDemo\obj\Debug\netcoreapp3.1\FirstDemo.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Basics SIntax Demo\FirstDemo\obj\Debug\netcoreapp3.1\FirstDemo.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Basics SIntax Demo\FirstDemo\obj\Debug\netcoreapp3.1\FirstDemo.AssemblyInfo.cs
+C:\Users\HP\source\repos\Basics SIntax Demo\FirstDemo\obj\Debug\netcoreapp3.1\FirstDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Basics SIntax Demo\FirstDemo\obj\Debug\netcoreapp3.1\FirstDemo.dll
+C:\Users\HP\source\repos\Basics SIntax Demo\FirstDemo\obj\Debug\netcoreapp3.1\FirstDemo.pdb
+C:\Users\HP\source\repos\Basics SIntax Demo\FirstDemo\obj\Debug\netcoreapp3.1\FirstDemo.genruntimeconfig.cache

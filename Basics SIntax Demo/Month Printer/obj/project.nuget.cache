@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3iBWCHwm3vD59PcU3gwa/2pftQTKsXMWMSb3yN/g9HK8dtfsmrSXFn4f1GE7BOfd00sgv/xu3rY63tmZ6JUkUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Basics SIntax Demo\\Month Printer\\Month Printer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

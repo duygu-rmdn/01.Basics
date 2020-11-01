@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "password", "password\password.csproj", "{408D0709-9EA0-4F89-9389-EFBB2688E017}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadNum", "ReadNum\ReadNum.csproj", "{B7EB516D-9783-414B-B052-B9247FF16171}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{408D0709-9EA0-4F89-9389-EFBB2688E017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{408D0709-9EA0-4F89-9389-EFBB2688E017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{408D0709-9EA0-4F89-9389-EFBB2688E017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{408D0709-9EA0-4F89-9389-EFBB2688E017}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7EB516D-9783-414B-B052-B9247FF16171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7EB516D-9783-414B-B052-B9247FF16171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7EB516D-9783-414B-B052-B9247FF16171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7EB516D-9783-414B-B052-B9247FF16171}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A22C4B02-E689-4A0E-BF91-406DCB2FE30D}
+	EndGlobalSection
+EndGlobal

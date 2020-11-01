@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\ex\ex\bin\Debug\netcoreapp3.1\ex.exe
+C:\Users\HP\source\repos\ex\ex\bin\Debug\netcoreapp3.1\ex.deps.json
+C:\Users\HP\source\repos\ex\ex\bin\Debug\netcoreapp3.1\ex.runtimeconfig.json
+C:\Users\HP\source\repos\ex\ex\bin\Debug\netcoreapp3.1\ex.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ex\ex\bin\Debug\netcoreapp3.1\ex.dll
+C:\Users\HP\source\repos\ex\ex\bin\Debug\netcoreapp3.1\ex.pdb
+C:\Users\HP\source\repos\ex\ex\obj\Debug\netcoreapp3.1\ex.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ex\ex\obj\Debug\netcoreapp3.1\ex.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ex\ex\obj\Debug\netcoreapp3.1\ex.AssemblyInfo.cs
+C:\Users\HP\source\repos\ex\ex\obj\Debug\netcoreapp3.1\ex.dll
+C:\Users\HP\source\repos\ex\ex\obj\Debug\netcoreapp3.1\ex.pdb

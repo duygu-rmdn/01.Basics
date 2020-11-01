@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\22.5.2020\04. Print and sum\bin\Debug\netcoreapp3.1\04. Print and sum.exe
+C:\Users\HP\source\repos\22.5.2020\04. Print and sum\bin\Debug\netcoreapp3.1\04. Print and sum.deps.json
+C:\Users\HP\source\repos\22.5.2020\04. Print and sum\bin\Debug\netcoreapp3.1\04. Print and sum.runtimeconfig.json
+C:\Users\HP\source\repos\22.5.2020\04. Print and sum\bin\Debug\netcoreapp3.1\04. Print and sum.runtimeconfig.dev.json
+C:\Users\HP\source\repos\22.5.2020\04. Print and sum\bin\Debug\netcoreapp3.1\04. Print and sum.dll
+C:\Users\HP\source\repos\22.5.2020\04. Print and sum\bin\Debug\netcoreapp3.1\04. Print and sum.pdb
+C:\Users\HP\source\repos\22.5.2020\04. Print and sum\obj\Debug\netcoreapp3.1\04. Print and sum.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\22.5.2020\04. Print and sum\obj\Debug\netcoreapp3.1\04. Print and sum.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\22.5.2020\04. Print and sum\obj\Debug\netcoreapp3.1\04. Print and sum.AssemblyInfo.cs
+C:\Users\HP\source\repos\22.5.2020\04. Print and sum\obj\Debug\netcoreapp3.1\04. Print and sum.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\22.5.2020\04. Print and sum\obj\Debug\netcoreapp3.1\04. Print and sum.dll
+C:\Users\HP\source\repos\22.5.2020\04. Print and sum\obj\Debug\netcoreapp3.1\04. Print and sum.pdb
+C:\Users\HP\source\repos\22.5.2020\04. Print and sum\obj\Debug\netcoreapp3.1\04. Print and sum.genruntimeconfig.cache

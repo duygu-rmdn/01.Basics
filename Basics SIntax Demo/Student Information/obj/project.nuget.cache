@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "okWDyM4y1PrydchpCcF9hgKZ21FHcl4aIvjoMv3H1mXFHCcHpPsk9j/REe5AcwEzPYxfIEhV9ztY48B3VASBkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Basics SIntax Demo\\Student Information\\Student Information.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\22.3.2020\time+15minutes\bin\Debug\netcoreapp3.1\time+15minutes.exe
+C:\Users\HP\source\repos\22.3.2020\time+15minutes\bin\Debug\netcoreapp3.1\time+15minutes.deps.json
+C:\Users\HP\source\repos\22.3.2020\time+15minutes\bin\Debug\netcoreapp3.1\time+15minutes.runtimeconfig.json
+C:\Users\HP\source\repos\22.3.2020\time+15minutes\bin\Debug\netcoreapp3.1\time+15minutes.runtimeconfig.dev.json
+C:\Users\HP\source\repos\22.3.2020\time+15minutes\bin\Debug\netcoreapp3.1\time+15minutes.dll
+C:\Users\HP\source\repos\22.3.2020\time+15minutes\bin\Debug\netcoreapp3.1\time+15minutes.pdb
+C:\Users\HP\source\repos\22.3.2020\time+15minutes\obj\Debug\netcoreapp3.1\time+15minutes.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\22.3.2020\time+15minutes\obj\Debug\netcoreapp3.1\time+15minutes.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\22.3.2020\time+15minutes\obj\Debug\netcoreapp3.1\time+15minutes.AssemblyInfo.cs
+C:\Users\HP\source\repos\22.3.2020\time+15minutes\obj\Debug\netcoreapp3.1\time+15minutes.dll
+C:\Users\HP\source\repos\22.3.2020\time+15minutes\obj\Debug\netcoreapp3.1\time+15minutes.pdb

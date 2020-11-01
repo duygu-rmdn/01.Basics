@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\5.4.2020\Divide Without Remainder\bin\Debug\netcoreapp3.1\Divide Without Remainder.exe
+C:\Users\HP\source\repos\5.4.2020\Divide Without Remainder\bin\Debug\netcoreapp3.1\Divide Without Remainder.deps.json
+C:\Users\HP\source\repos\5.4.2020\Divide Without Remainder\bin\Debug\netcoreapp3.1\Divide Without Remainder.runtimeconfig.json
+C:\Users\HP\source\repos\5.4.2020\Divide Without Remainder\bin\Debug\netcoreapp3.1\Divide Without Remainder.runtimeconfig.dev.json
+C:\Users\HP\source\repos\5.4.2020\Divide Without Remainder\bin\Debug\netcoreapp3.1\Divide Without Remainder.dll
+C:\Users\HP\source\repos\5.4.2020\Divide Without Remainder\bin\Debug\netcoreapp3.1\Divide Without Remainder.pdb
+C:\Users\HP\source\repos\5.4.2020\Divide Without Remainder\obj\Debug\netcoreapp3.1\Divide Without Remainder.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\5.4.2020\Divide Without Remainder\obj\Debug\netcoreapp3.1\Divide Without Remainder.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\5.4.2020\Divide Without Remainder\obj\Debug\netcoreapp3.1\Divide Without Remainder.AssemblyInfo.cs
+C:\Users\HP\source\repos\5.4.2020\Divide Without Remainder\obj\Debug\netcoreapp3.1\Divide Without Remainder.dll
+C:\Users\HP\source\repos\5.4.2020\Divide Without Remainder\obj\Debug\netcoreapp3.1\Divide Without Remainder.pdb

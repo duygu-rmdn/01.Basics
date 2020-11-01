@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\3.5.2020\Honey Harvest\bin\Debug\netcoreapp3.1\Honey Harvest.exe
+C:\Users\HP\source\repos\3.5.2020\Honey Harvest\bin\Debug\netcoreapp3.1\Honey Harvest.deps.json
+C:\Users\HP\source\repos\3.5.2020\Honey Harvest\bin\Debug\netcoreapp3.1\Honey Harvest.runtimeconfig.json
+C:\Users\HP\source\repos\3.5.2020\Honey Harvest\bin\Debug\netcoreapp3.1\Honey Harvest.runtimeconfig.dev.json
+C:\Users\HP\source\repos\3.5.2020\Honey Harvest\bin\Debug\netcoreapp3.1\Honey Harvest.dll
+C:\Users\HP\source\repos\3.5.2020\Honey Harvest\bin\Debug\netcoreapp3.1\Honey Harvest.pdb
+C:\Users\HP\source\repos\3.5.2020\Honey Harvest\obj\Debug\netcoreapp3.1\Honey Harvest.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\3.5.2020\Honey Harvest\obj\Debug\netcoreapp3.1\Honey Harvest.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\3.5.2020\Honey Harvest\obj\Debug\netcoreapp3.1\Honey Harvest.AssemblyInfo.cs
+C:\Users\HP\source\repos\3.5.2020\Honey Harvest\obj\Debug\netcoreapp3.1\Honey Harvest.dll
+C:\Users\HP\source\repos\3.5.2020\Honey Harvest\obj\Debug\netcoreapp3.1\Honey Harvest.pdb

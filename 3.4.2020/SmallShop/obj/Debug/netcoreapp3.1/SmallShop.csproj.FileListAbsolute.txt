@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\3.4.2020\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.exe
+C:\Users\HP\source\repos\3.4.2020\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.deps.json
+C:\Users\HP\source\repos\3.4.2020\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.runtimeconfig.json
+C:\Users\HP\source\repos\3.4.2020\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.runtimeconfig.dev.json
+C:\Users\HP\source\repos\3.4.2020\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.dll
+C:\Users\HP\source\repos\3.4.2020\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.pdb
+C:\Users\HP\source\repos\3.4.2020\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\3.4.2020\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\3.4.2020\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.AssemblyInfo.cs
+C:\Users\HP\source\repos\3.4.2020\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.dll
+C:\Users\HP\source\repos\3.4.2020\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.pdb

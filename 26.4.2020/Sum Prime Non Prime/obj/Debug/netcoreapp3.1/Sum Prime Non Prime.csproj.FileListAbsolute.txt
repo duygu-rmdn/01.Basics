@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\26.4.2020\Sum Prime Non Prime\bin\Debug\netcoreapp3.1\Sum Prime Non Prime.exe
+C:\Users\HP\source\repos\26.4.2020\Sum Prime Non Prime\bin\Debug\netcoreapp3.1\Sum Prime Non Prime.deps.json
+C:\Users\HP\source\repos\26.4.2020\Sum Prime Non Prime\bin\Debug\netcoreapp3.1\Sum Prime Non Prime.runtimeconfig.json
+C:\Users\HP\source\repos\26.4.2020\Sum Prime Non Prime\bin\Debug\netcoreapp3.1\Sum Prime Non Prime.runtimeconfig.dev.json
+C:\Users\HP\source\repos\26.4.2020\Sum Prime Non Prime\bin\Debug\netcoreapp3.1\Sum Prime Non Prime.dll
+C:\Users\HP\source\repos\26.4.2020\Sum Prime Non Prime\bin\Debug\netcoreapp3.1\Sum Prime Non Prime.pdb
+C:\Users\HP\source\repos\26.4.2020\Sum Prime Non Prime\obj\Debug\netcoreapp3.1\Sum Prime Non Prime.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\26.4.2020\Sum Prime Non Prime\obj\Debug\netcoreapp3.1\Sum Prime Non Prime.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\26.4.2020\Sum Prime Non Prime\obj\Debug\netcoreapp3.1\Sum Prime Non Prime.AssemblyInfo.cs
+C:\Users\HP\source\repos\26.4.2020\Sum Prime Non Prime\obj\Debug\netcoreapp3.1\Sum Prime Non Prime.dll
+C:\Users\HP\source\repos\26.4.2020\Sum Prime Non Prime\obj\Debug\netcoreapp3.1\Sum Prime Non Prime.pdb

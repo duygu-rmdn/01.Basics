@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\12.4.2020-4.26.2020\Vacation\bin\Debug\netcoreapp3.1\Vacation.exe
+C:\Users\HP\source\repos\12.4.2020-4.26.2020\Vacation\bin\Debug\netcoreapp3.1\Vacation.deps.json
+C:\Users\HP\source\repos\12.4.2020-4.26.2020\Vacation\bin\Debug\netcoreapp3.1\Vacation.runtimeconfig.json
+C:\Users\HP\source\repos\12.4.2020-4.26.2020\Vacation\bin\Debug\netcoreapp3.1\Vacation.runtimeconfig.dev.json
+C:\Users\HP\source\repos\12.4.2020-4.26.2020\Vacation\bin\Debug\netcoreapp3.1\Vacation.dll
+C:\Users\HP\source\repos\12.4.2020-4.26.2020\Vacation\bin\Debug\netcoreapp3.1\Vacation.pdb
+C:\Users\HP\source\repos\12.4.2020-4.26.2020\Vacation\obj\Debug\netcoreapp3.1\Vacation.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\12.4.2020-4.26.2020\Vacation\obj\Debug\netcoreapp3.1\Vacation.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\12.4.2020-4.26.2020\Vacation\obj\Debug\netcoreapp3.1\Vacation.AssemblyInfo.cs
+C:\Users\HP\source\repos\12.4.2020-4.26.2020\Vacation\obj\Debug\netcoreapp3.1\Vacation.dll
+C:\Users\HP\source\repos\12.4.2020-4.26.2020\Vacation\obj\Debug\netcoreapp3.1\Vacation.pdb

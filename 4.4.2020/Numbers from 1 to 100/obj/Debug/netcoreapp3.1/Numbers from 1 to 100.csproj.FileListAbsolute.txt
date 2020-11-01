@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\4.4.2020\Numbers from 1 to 100\bin\Debug\netcoreapp3.1\Numbers from 1 to 100.exe
+C:\Users\HP\source\repos\4.4.2020\Numbers from 1 to 100\bin\Debug\netcoreapp3.1\Numbers from 1 to 100.deps.json
+C:\Users\HP\source\repos\4.4.2020\Numbers from 1 to 100\bin\Debug\netcoreapp3.1\Numbers from 1 to 100.runtimeconfig.json
+C:\Users\HP\source\repos\4.4.2020\Numbers from 1 to 100\bin\Debug\netcoreapp3.1\Numbers from 1 to 100.runtimeconfig.dev.json
+C:\Users\HP\source\repos\4.4.2020\Numbers from 1 to 100\bin\Debug\netcoreapp3.1\Numbers from 1 to 100.dll
+C:\Users\HP\source\repos\4.4.2020\Numbers from 1 to 100\bin\Debug\netcoreapp3.1\Numbers from 1 to 100.pdb
+C:\Users\HP\source\repos\4.4.2020\Numbers from 1 to 100\obj\Debug\netcoreapp3.1\Numbers from 1 to 100.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\4.4.2020\Numbers from 1 to 100\obj\Debug\netcoreapp3.1\Numbers from 1 to 100.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\4.4.2020\Numbers from 1 to 100\obj\Debug\netcoreapp3.1\Numbers from 1 to 100.AssemblyInfo.cs
+C:\Users\HP\source\repos\4.4.2020\Numbers from 1 to 100\obj\Debug\netcoreapp3.1\Numbers from 1 to 100.dll
+C:\Users\HP\source\repos\4.4.2020\Numbers from 1 to 100\obj\Debug\netcoreapp3.1\Numbers from 1 to 100.pdb

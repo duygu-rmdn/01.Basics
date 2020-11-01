@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\term\term\bin\Debug\netcoreapp3.1\term.exe
+C:\Users\HP\source\repos\term\term\bin\Debug\netcoreapp3.1\term.deps.json
+C:\Users\HP\source\repos\term\term\bin\Debug\netcoreapp3.1\term.runtimeconfig.json
+C:\Users\HP\source\repos\term\term\bin\Debug\netcoreapp3.1\term.runtimeconfig.dev.json
+C:\Users\HP\source\repos\term\term\bin\Debug\netcoreapp3.1\term.dll
+C:\Users\HP\source\repos\term\term\bin\Debug\netcoreapp3.1\term.pdb
+C:\Users\HP\source\repos\term\term\obj\Debug\netcoreapp3.1\term.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\term\term\obj\Debug\netcoreapp3.1\term.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\term\term\obj\Debug\netcoreapp3.1\term.AssemblyInfo.cs
+C:\Users\HP\source\repos\term\term\obj\Debug\netcoreapp3.1\term.dll
+C:\Users\HP\source\repos\term\term\obj\Debug\netcoreapp3.1\term.pdb
+C:\Users\HP\source\repos\term\term\obj\Debug\netcoreapp3.1\term.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\term\term\obj\Debug\netcoreapp3.1\term.genruntimeconfig.cache

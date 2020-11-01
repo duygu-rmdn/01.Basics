@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cGuFFcal58Xukg4VNC4QPd2aYnHXUj4XtNKJ02xfAw+CgTZmbtK3ZdlgojeO9wgadF2QYH0Y3OXx9bBXJZhZoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\1.5.2020\\Summer Shopping\\Summer Shopping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\2.5.2020\Schoolaship\bin\Debug\netcoreapp3.1\Schoolaship.exe
+C:\Users\HP\source\repos\2.5.2020\Schoolaship\bin\Debug\netcoreapp3.1\Schoolaship.deps.json
+C:\Users\HP\source\repos\2.5.2020\Schoolaship\bin\Debug\netcoreapp3.1\Schoolaship.runtimeconfig.json
+C:\Users\HP\source\repos\2.5.2020\Schoolaship\bin\Debug\netcoreapp3.1\Schoolaship.runtimeconfig.dev.json
+C:\Users\HP\source\repos\2.5.2020\Schoolaship\bin\Debug\netcoreapp3.1\Schoolaship.dll
+C:\Users\HP\source\repos\2.5.2020\Schoolaship\bin\Debug\netcoreapp3.1\Schoolaship.pdb
+C:\Users\HP\source\repos\2.5.2020\Schoolaship\obj\Debug\netcoreapp3.1\Schoolaship.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\2.5.2020\Schoolaship\obj\Debug\netcoreapp3.1\Schoolaship.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\2.5.2020\Schoolaship\obj\Debug\netcoreapp3.1\Schoolaship.AssemblyInfo.cs
+C:\Users\HP\source\repos\2.5.2020\Schoolaship\obj\Debug\netcoreapp3.1\Schoolaship.dll
+C:\Users\HP\source\repos\2.5.2020\Schoolaship\obj\Debug\netcoreapp3.1\Schoolaship.pdb

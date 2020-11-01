@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\26.4.2020\Number Pyramid\bin\Debug\netcoreapp3.1\Number Pyramid.exe
+C:\Users\HP\source\repos\26.4.2020\Number Pyramid\bin\Debug\netcoreapp3.1\Number Pyramid.deps.json
+C:\Users\HP\source\repos\26.4.2020\Number Pyramid\bin\Debug\netcoreapp3.1\Number Pyramid.runtimeconfig.json
+C:\Users\HP\source\repos\26.4.2020\Number Pyramid\bin\Debug\netcoreapp3.1\Number Pyramid.runtimeconfig.dev.json
+C:\Users\HP\source\repos\26.4.2020\Number Pyramid\bin\Debug\netcoreapp3.1\Number Pyramid.dll
+C:\Users\HP\source\repos\26.4.2020\Number Pyramid\bin\Debug\netcoreapp3.1\Number Pyramid.pdb
+C:\Users\HP\source\repos\26.4.2020\Number Pyramid\obj\Debug\netcoreapp3.1\Number Pyramid.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\26.4.2020\Number Pyramid\obj\Debug\netcoreapp3.1\Number Pyramid.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\26.4.2020\Number Pyramid\obj\Debug\netcoreapp3.1\Number Pyramid.AssemblyInfo.cs
+C:\Users\HP\source\repos\26.4.2020\Number Pyramid\obj\Debug\netcoreapp3.1\Number Pyramid.dll
+C:\Users\HP\source\repos\26.4.2020\Number Pyramid\obj\Debug\netcoreapp3.1\Number Pyramid.pdb

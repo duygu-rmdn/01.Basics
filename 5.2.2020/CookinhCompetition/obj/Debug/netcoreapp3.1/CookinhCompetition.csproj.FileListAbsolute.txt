@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\5.2.2020\CookinhCompetition\bin\Debug\netcoreapp3.1\CookinhCompetition.exe
+C:\Users\HP\source\repos\5.2.2020\CookinhCompetition\bin\Debug\netcoreapp3.1\CookinhCompetition.deps.json
+C:\Users\HP\source\repos\5.2.2020\CookinhCompetition\bin\Debug\netcoreapp3.1\CookinhCompetition.runtimeconfig.json
+C:\Users\HP\source\repos\5.2.2020\CookinhCompetition\bin\Debug\netcoreapp3.1\CookinhCompetition.runtimeconfig.dev.json
+C:\Users\HP\source\repos\5.2.2020\CookinhCompetition\bin\Debug\netcoreapp3.1\CookinhCompetition.dll
+C:\Users\HP\source\repos\5.2.2020\CookinhCompetition\bin\Debug\netcoreapp3.1\CookinhCompetition.pdb
+C:\Users\HP\source\repos\5.2.2020\CookinhCompetition\obj\Debug\netcoreapp3.1\CookinhCompetition.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\5.2.2020\CookinhCompetition\obj\Debug\netcoreapp3.1\CookinhCompetition.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\5.2.2020\CookinhCompetition\obj\Debug\netcoreapp3.1\CookinhCompetition.AssemblyInfo.cs
+C:\Users\HP\source\repos\5.2.2020\CookinhCompetition\obj\Debug\netcoreapp3.1\CookinhCompetition.dll
+C:\Users\HP\source\repos\5.2.2020\CookinhCompetition\obj\Debug\netcoreapp3.1\CookinhCompetition.pdb

@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\3.5.2020\Honey Winter Reserves\bin\Debug\netcoreapp3.1\Honey Winter Reserves.exe
+C:\Users\HP\source\repos\3.5.2020\Honey Winter Reserves\bin\Debug\netcoreapp3.1\Honey Winter Reserves.deps.json
+C:\Users\HP\source\repos\3.5.2020\Honey Winter Reserves\bin\Debug\netcoreapp3.1\Honey Winter Reserves.runtimeconfig.json
+C:\Users\HP\source\repos\3.5.2020\Honey Winter Reserves\bin\Debug\netcoreapp3.1\Honey Winter Reserves.runtimeconfig.dev.json
+C:\Users\HP\source\repos\3.5.2020\Honey Winter Reserves\bin\Debug\netcoreapp3.1\Honey Winter Reserves.dll
+C:\Users\HP\source\repos\3.5.2020\Honey Winter Reserves\bin\Debug\netcoreapp3.1\Honey Winter Reserves.pdb
+C:\Users\HP\source\repos\3.5.2020\Honey Winter Reserves\obj\Debug\netcoreapp3.1\Honey Winter Reserves.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\3.5.2020\Honey Winter Reserves\obj\Debug\netcoreapp3.1\Honey Winter Reserves.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\3.5.2020\Honey Winter Reserves\obj\Debug\netcoreapp3.1\Honey Winter Reserves.AssemblyInfo.cs
+C:\Users\HP\source\repos\3.5.2020\Honey Winter Reserves\obj\Debug\netcoreapp3.1\Honey Winter Reserves.dll
+C:\Users\HP\source\repos\3.5.2020\Honey Winter Reserves\obj\Debug\netcoreapp3.1\Honey Winter Reserves.pdb

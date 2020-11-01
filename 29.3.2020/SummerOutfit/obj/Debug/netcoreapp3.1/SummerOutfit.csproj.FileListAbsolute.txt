@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\29.3.2020\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.exe
+C:\Users\HP\source\repos\29.3.2020\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.deps.json
+C:\Users\HP\source\repos\29.3.2020\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.runtimeconfig.json
+C:\Users\HP\source\repos\29.3.2020\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.runtimeconfig.dev.json
+C:\Users\HP\source\repos\29.3.2020\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.dll
+C:\Users\HP\source\repos\29.3.2020\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.pdb
+C:\Users\HP\source\repos\29.3.2020\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\29.3.2020\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\29.3.2020\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.AssemblyInfo.cs
+C:\Users\HP\source\repos\29.3.2020\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.dll
+C:\Users\HP\source\repos\29.3.2020\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.pdb

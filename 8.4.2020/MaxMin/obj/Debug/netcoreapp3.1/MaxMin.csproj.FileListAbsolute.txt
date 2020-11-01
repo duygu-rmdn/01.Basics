@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\8.4.2020\MaxMin\bin\Debug\netcoreapp3.1\MaxMin.exe
+C:\Users\HP\source\repos\8.4.2020\MaxMin\bin\Debug\netcoreapp3.1\MaxMin.deps.json
+C:\Users\HP\source\repos\8.4.2020\MaxMin\bin\Debug\netcoreapp3.1\MaxMin.runtimeconfig.json
+C:\Users\HP\source\repos\8.4.2020\MaxMin\bin\Debug\netcoreapp3.1\MaxMin.runtimeconfig.dev.json
+C:\Users\HP\source\repos\8.4.2020\MaxMin\bin\Debug\netcoreapp3.1\MaxMin.dll
+C:\Users\HP\source\repos\8.4.2020\MaxMin\bin\Debug\netcoreapp3.1\MaxMin.pdb
+C:\Users\HP\source\repos\8.4.2020\MaxMin\obj\Debug\netcoreapp3.1\MaxMin.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\8.4.2020\MaxMin\obj\Debug\netcoreapp3.1\MaxMin.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\8.4.2020\MaxMin\obj\Debug\netcoreapp3.1\MaxMin.AssemblyInfo.cs
+C:\Users\HP\source\repos\8.4.2020\MaxMin\obj\Debug\netcoreapp3.1\MaxMin.dll
+C:\Users\HP\source\repos\8.4.2020\MaxMin\obj\Debug\netcoreapp3.1\MaxMin.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KRcsHljA7AmFNNA+4BTn01A7jnzLxmJtyCZIumD2IS60hBjVyBOo78Tl63XW1xAZYgMv0vjyCAn+huAQK44OKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Basics SIntax Demo\\12. Even Number\\12. Even Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

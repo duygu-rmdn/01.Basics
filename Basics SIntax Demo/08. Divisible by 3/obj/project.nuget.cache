@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+hWNM3OAMHkNTBTxtBnPeGNnhxfpvQr0CxzjswZVIEgF+Ze0r+FMkKmK4PZ5K0AQOO3zbzPNRoGaiCpEji9xQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Basics SIntax Demo\\08. Divisible by 3\\08. Divisible by 3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

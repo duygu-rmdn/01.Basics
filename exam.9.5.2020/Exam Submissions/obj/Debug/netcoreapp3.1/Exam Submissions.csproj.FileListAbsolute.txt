@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Submissions\bin\Debug\netcoreapp3.1\Exam Submissions.exe
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Submissions\bin\Debug\netcoreapp3.1\Exam Submissions.deps.json
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Submissions\bin\Debug\netcoreapp3.1\Exam Submissions.runtimeconfig.json
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Submissions\bin\Debug\netcoreapp3.1\Exam Submissions.runtimeconfig.dev.json
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Submissions\bin\Debug\netcoreapp3.1\Exam Submissions.dll
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Submissions\bin\Debug\netcoreapp3.1\Exam Submissions.pdb
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Submissions\obj\Debug\netcoreapp3.1\Exam Submissions.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Submissions\obj\Debug\netcoreapp3.1\Exam Submissions.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Submissions\obj\Debug\netcoreapp3.1\Exam Submissions.AssemblyInfo.cs
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Submissions\obj\Debug\netcoreapp3.1\Exam Submissions.dll
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Submissions\obj\Debug\netcoreapp3.1\Exam Submissions.pdb

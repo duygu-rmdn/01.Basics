@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Basics SIntax Demo\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.exe
+C:\Users\HP\source\repos\Basics SIntax Demo\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.deps.json
+C:\Users\HP\source\repos\Basics SIntax Demo\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.runtimeconfig.json
+C:\Users\HP\source\repos\Basics SIntax Demo\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Basics SIntax Demo\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.dll
+C:\Users\HP\source\repos\Basics SIntax Demo\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.pdb
+C:\Users\HP\source\repos\Basics SIntax Demo\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Basics SIntax Demo\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Basics SIntax Demo\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.AssemblyInfo.cs
+C:\Users\HP\source\repos\Basics SIntax Demo\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Basics SIntax Demo\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.dll
+C:\Users\HP\source\repos\Basics SIntax Demo\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.pdb
+C:\Users\HP\source\repos\Basics SIntax Demo\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.genruntimeconfig.cache

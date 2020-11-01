@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\3.5.2020\Beehive Role\bin\Debug\netcoreapp3.1\Beehive Role.exe
+C:\Users\HP\source\repos\3.5.2020\Beehive Role\bin\Debug\netcoreapp3.1\Beehive Role.deps.json
+C:\Users\HP\source\repos\3.5.2020\Beehive Role\bin\Debug\netcoreapp3.1\Beehive Role.runtimeconfig.json
+C:\Users\HP\source\repos\3.5.2020\Beehive Role\bin\Debug\netcoreapp3.1\Beehive Role.runtimeconfig.dev.json
+C:\Users\HP\source\repos\3.5.2020\Beehive Role\bin\Debug\netcoreapp3.1\Beehive Role.dll
+C:\Users\HP\source\repos\3.5.2020\Beehive Role\bin\Debug\netcoreapp3.1\Beehive Role.pdb
+C:\Users\HP\source\repos\3.5.2020\Beehive Role\obj\Debug\netcoreapp3.1\Beehive Role.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\3.5.2020\Beehive Role\obj\Debug\netcoreapp3.1\Beehive Role.AssemblyInfo.cs
+C:\Users\HP\source\repos\3.5.2020\Beehive Role\obj\Debug\netcoreapp3.1\Beehive Role.dll
+C:\Users\HP\source\repos\3.5.2020\Beehive Role\obj\Debug\netcoreapp3.1\Beehive Role.pdb

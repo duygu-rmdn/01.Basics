@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\12.4.2020-4.26.2020\Coins\bin\Debug\netcoreapp3.1\Coins.exe
+C:\Users\HP\source\repos\12.4.2020-4.26.2020\Coins\bin\Debug\netcoreapp3.1\Coins.deps.json
+C:\Users\HP\source\repos\12.4.2020-4.26.2020\Coins\bin\Debug\netcoreapp3.1\Coins.runtimeconfig.json
+C:\Users\HP\source\repos\12.4.2020-4.26.2020\Coins\bin\Debug\netcoreapp3.1\Coins.runtimeconfig.dev.json
+C:\Users\HP\source\repos\12.4.2020-4.26.2020\Coins\bin\Debug\netcoreapp3.1\Coins.dll
+C:\Users\HP\source\repos\12.4.2020-4.26.2020\Coins\bin\Debug\netcoreapp3.1\Coins.pdb
+C:\Users\HP\source\repos\12.4.2020-4.26.2020\Coins\obj\Debug\netcoreapp3.1\Coins.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\12.4.2020-4.26.2020\Coins\obj\Debug\netcoreapp3.1\Coins.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\12.4.2020-4.26.2020\Coins\obj\Debug\netcoreapp3.1\Coins.AssemblyInfo.cs
+C:\Users\HP\source\repos\12.4.2020-4.26.2020\Coins\obj\Debug\netcoreapp3.1\Coins.dll
+C:\Users\HP\source\repos\12.4.2020-4.26.2020\Coins\obj\Debug\netcoreapp3.1\Coins.pdb

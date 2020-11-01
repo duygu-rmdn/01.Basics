@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\5.2.2020\Cruise Games\bin\Debug\netcoreapp3.1\Cruise Games.exe
+C:\Users\HP\source\repos\5.2.2020\Cruise Games\bin\Debug\netcoreapp3.1\Cruise Games.deps.json
+C:\Users\HP\source\repos\5.2.2020\Cruise Games\bin\Debug\netcoreapp3.1\Cruise Games.runtimeconfig.json
+C:\Users\HP\source\repos\5.2.2020\Cruise Games\bin\Debug\netcoreapp3.1\Cruise Games.runtimeconfig.dev.json
+C:\Users\HP\source\repos\5.2.2020\Cruise Games\bin\Debug\netcoreapp3.1\Cruise Games.dll
+C:\Users\HP\source\repos\5.2.2020\Cruise Games\bin\Debug\netcoreapp3.1\Cruise Games.pdb
+C:\Users\HP\source\repos\5.2.2020\Cruise Games\obj\Debug\netcoreapp3.1\Cruise Games.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\5.2.2020\Cruise Games\obj\Debug\netcoreapp3.1\Cruise Games.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\5.2.2020\Cruise Games\obj\Debug\netcoreapp3.1\Cruise Games.AssemblyInfo.cs
+C:\Users\HP\source\repos\5.2.2020\Cruise Games\obj\Debug\netcoreapp3.1\Cruise Games.dll
+C:\Users\HP\source\repos\5.2.2020\Cruise Games\obj\Debug\netcoreapp3.1\Cruise Games.pdb

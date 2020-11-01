@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\bhejv\bhejv\bin\Debug\netcoreapp3.1\bhejv.exe
+C:\Users\HP\source\repos\bhejv\bhejv\bin\Debug\netcoreapp3.1\bhejv.deps.json
+C:\Users\HP\source\repos\bhejv\bhejv\bin\Debug\netcoreapp3.1\bhejv.runtimeconfig.json
+C:\Users\HP\source\repos\bhejv\bhejv\bin\Debug\netcoreapp3.1\bhejv.runtimeconfig.dev.json
+C:\Users\HP\source\repos\bhejv\bhejv\bin\Debug\netcoreapp3.1\bhejv.dll
+C:\Users\HP\source\repos\bhejv\bhejv\bin\Debug\netcoreapp3.1\bhejv.pdb
+C:\Users\HP\source\repos\bhejv\bhejv\obj\Debug\netcoreapp3.1\bhejv.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\bhejv\bhejv\obj\Debug\netcoreapp3.1\bhejv.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\bhejv\bhejv\obj\Debug\netcoreapp3.1\bhejv.AssemblyInfo.cs
+C:\Users\HP\source\repos\bhejv\bhejv\obj\Debug\netcoreapp3.1\bhejv.dll
+C:\Users\HP\source\repos\bhejv\bhejv\obj\Debug\netcoreapp3.1\bhejv.pdb
+C:\Users\HP\source\repos\bhejv\bhejv\obj\Debug\netcoreapp3.1\bhejv.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\bhejv\bhejv\obj\Debug\netcoreapp3.1\bhejv.genruntimeconfig.cache

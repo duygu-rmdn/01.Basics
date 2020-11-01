@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Points\bin\Debug\netcoreapp3.1\Exam Points.exe
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Points\bin\Debug\netcoreapp3.1\Exam Points.deps.json
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Points\bin\Debug\netcoreapp3.1\Exam Points.runtimeconfig.json
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Points\bin\Debug\netcoreapp3.1\Exam Points.runtimeconfig.dev.json
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Points\bin\Debug\netcoreapp3.1\Exam Points.dll
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Points\bin\Debug\netcoreapp3.1\Exam Points.pdb
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Points\obj\Debug\netcoreapp3.1\Exam Points.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Points\obj\Debug\netcoreapp3.1\Exam Points.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Points\obj\Debug\netcoreapp3.1\Exam Points.AssemblyInfo.cs
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Points\obj\Debug\netcoreapp3.1\Exam Points.dll
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Points\obj\Debug\netcoreapp3.1\Exam Points.pdb

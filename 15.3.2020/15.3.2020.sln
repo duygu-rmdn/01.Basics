@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.3.2020", "15.3.2020\15.3.2020.csproj", "{0DD7D850-7AE3-475C-B9FD-ACFFE7584868}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USD to BGN", "USD to BGN\USD to BGN.csproj", "{2D8BAD21-0A7A-460A-808B-B661B53E9C10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Radians to Degrees", "Radians to Degrees\Radians to Degrees.csproj", "{F2A33BB6-2152-47D0-B9E0-00248F6306E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "last day yard greedinh", "last day yard greedinh\last day yard greedinh.csproj", "{63817F17-56B6-417E-9AC0-53768CF020A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetShop", "PetShop\PetShop.csproj", "{A819B751-D7C7-41EE-B388-D02850A14BE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D Rectangle Area", "2D Rectangle Area\2D Rectangle Area.csproj", "{A303C735-1E97-46B1-A619-2CF32497BA78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tailoring Workshop", "Tailoring Workshop\Tailoring Workshop.csproj", "{AB8BE1A4-9331-4559-924B-0581414C5015}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DD7D850-7AE3-475C-B9FD-ACFFE7584868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DD7D850-7AE3-475C-B9FD-ACFFE7584868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DD7D850-7AE3-475C-B9FD-ACFFE7584868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DD7D850-7AE3-475C-B9FD-ACFFE7584868}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D8BAD21-0A7A-460A-808B-B661B53E9C10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D8BAD21-0A7A-460A-808B-B661B53E9C10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D8BAD21-0A7A-460A-808B-B661B53E9C10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D8BAD21-0A7A-460A-808B-B661B53E9C10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2A33BB6-2152-47D0-B9E0-00248F6306E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2A33BB6-2152-47D0-B9E0-00248F6306E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2A33BB6-2152-47D0-B9E0-00248F6306E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2A33BB6-2152-47D0-B9E0-00248F6306E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63817F17-56B6-417E-9AC0-53768CF020A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63817F17-56B6-417E-9AC0-53768CF020A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63817F17-56B6-417E-9AC0-53768CF020A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63817F17-56B6-417E-9AC0-53768CF020A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A819B751-D7C7-41EE-B388-D02850A14BE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A819B751-D7C7-41EE-B388-D02850A14BE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A819B751-D7C7-41EE-B388-D02850A14BE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A819B751-D7C7-41EE-B388-D02850A14BE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A303C735-1E97-46B1-A619-2CF32497BA78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A303C735-1E97-46B1-A619-2CF32497BA78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A303C735-1E97-46B1-A619-2CF32497BA78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A303C735-1E97-46B1-A619-2CF32497BA78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB8BE1A4-9331-4559-924B-0581414C5015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB8BE1A4-9331-4559-924B-0581414C5015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB8BE1A4-9331-4559-924B-0581414C5015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB8BE1A4-9331-4559-924B-0581414C5015}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8D7FE4C-B358-4897-9262-EF0BA756B7F4}
+	EndGlobalSection
+EndGlobal

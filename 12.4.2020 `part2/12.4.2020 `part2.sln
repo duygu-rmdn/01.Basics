@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odd  Even Position", "Odd  Even Position\Odd  Even Position.csproj", "{0E1CFEAB-4A29-44F9-B01F-9DF9508E23E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Histogram", "Histogram\Histogram.csproj", "{71C3300A-AEAC-44F9-82A9-73C8AD104CFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E1CFEAB-4A29-44F9-B01F-9DF9508E23E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E1CFEAB-4A29-44F9-B01F-9DF9508E23E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E1CFEAB-4A29-44F9-B01F-9DF9508E23E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E1CFEAB-4A29-44F9-B01F-9DF9508E23E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71C3300A-AEAC-44F9-82A9-73C8AD104CFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71C3300A-AEAC-44F9-82A9-73C8AD104CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71C3300A-AEAC-44F9-82A9-73C8AD104CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71C3300A-AEAC-44F9-82A9-73C8AD104CFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5FEC486-E593-45B6-8992-8091CB2EFE8A}
+	EndGlobalSection
+EndGlobal

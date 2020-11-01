@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\19.4.2020\Read Text\bin\Debug\netcoreapp3.1\Read Text.exe
+C:\Users\HP\source\repos\19.4.2020\Read Text\bin\Debug\netcoreapp3.1\Read Text.deps.json
+C:\Users\HP\source\repos\19.4.2020\Read Text\bin\Debug\netcoreapp3.1\Read Text.runtimeconfig.json
+C:\Users\HP\source\repos\19.4.2020\Read Text\bin\Debug\netcoreapp3.1\Read Text.runtimeconfig.dev.json
+C:\Users\HP\source\repos\19.4.2020\Read Text\bin\Debug\netcoreapp3.1\Read Text.dll
+C:\Users\HP\source\repos\19.4.2020\Read Text\bin\Debug\netcoreapp3.1\Read Text.pdb
+C:\Users\HP\source\repos\19.4.2020\Read Text\obj\Debug\netcoreapp3.1\Read Text.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\19.4.2020\Read Text\obj\Debug\netcoreapp3.1\Read Text.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\19.4.2020\Read Text\obj\Debug\netcoreapp3.1\Read Text.AssemblyInfo.cs
+C:\Users\HP\source\repos\19.4.2020\Read Text\obj\Debug\netcoreapp3.1\Read Text.dll
+C:\Users\HP\source\repos\19.4.2020\Read Text\obj\Debug\netcoreapp3.1\Read Text.pdb

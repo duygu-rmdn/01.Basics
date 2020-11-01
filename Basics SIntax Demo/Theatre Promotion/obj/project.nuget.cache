@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xErjORDKooD+ec4ngtDqLNV5YG3Q6hFfzH1JaL7IEFw205WTKU3AQsOHPE63LKZfdUo5cJ77dHNTZK6i+8JIIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Basics SIntax Demo\\Theatre Promotion\\Theatre Promotion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

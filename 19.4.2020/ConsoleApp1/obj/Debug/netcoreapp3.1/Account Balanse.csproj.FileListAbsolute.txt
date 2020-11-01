@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\19.4.2020\ConsoleApp1\bin\Debug\netcoreapp3.1\Account Balanse.exe
+C:\Users\HP\source\repos\19.4.2020\ConsoleApp1\bin\Debug\netcoreapp3.1\Account Balanse.deps.json
+C:\Users\HP\source\repos\19.4.2020\ConsoleApp1\bin\Debug\netcoreapp3.1\Account Balanse.runtimeconfig.json
+C:\Users\HP\source\repos\19.4.2020\ConsoleApp1\bin\Debug\netcoreapp3.1\Account Balanse.runtimeconfig.dev.json
+C:\Users\HP\source\repos\19.4.2020\ConsoleApp1\bin\Debug\netcoreapp3.1\Account Balanse.dll
+C:\Users\HP\source\repos\19.4.2020\ConsoleApp1\bin\Debug\netcoreapp3.1\Account Balanse.pdb
+C:\Users\HP\source\repos\19.4.2020\ConsoleApp1\obj\Debug\netcoreapp3.1\Account Balanse.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\19.4.2020\ConsoleApp1\obj\Debug\netcoreapp3.1\Account Balanse.AssemblyInfo.cs
+C:\Users\HP\source\repos\19.4.2020\ConsoleApp1\obj\Debug\netcoreapp3.1\Account Balanse.dll
+C:\Users\HP\source\repos\19.4.2020\ConsoleApp1\obj\Debug\netcoreapp3.1\Account Balanse.pdb

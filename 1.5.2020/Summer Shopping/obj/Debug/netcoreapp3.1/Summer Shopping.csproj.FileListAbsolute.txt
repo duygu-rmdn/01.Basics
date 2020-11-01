@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\1.5.2020\Summer Shopping\bin\Debug\netcoreapp3.1\Summer Shopping.exe
+C:\Users\HP\source\repos\1.5.2020\Summer Shopping\bin\Debug\netcoreapp3.1\Summer Shopping.deps.json
+C:\Users\HP\source\repos\1.5.2020\Summer Shopping\bin\Debug\netcoreapp3.1\Summer Shopping.runtimeconfig.json
+C:\Users\HP\source\repos\1.5.2020\Summer Shopping\bin\Debug\netcoreapp3.1\Summer Shopping.runtimeconfig.dev.json
+C:\Users\HP\source\repos\1.5.2020\Summer Shopping\bin\Debug\netcoreapp3.1\Summer Shopping.dll
+C:\Users\HP\source\repos\1.5.2020\Summer Shopping\bin\Debug\netcoreapp3.1\Summer Shopping.pdb
+C:\Users\HP\source\repos\1.5.2020\Summer Shopping\obj\Debug\netcoreapp3.1\Summer Shopping.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\1.5.2020\Summer Shopping\obj\Debug\netcoreapp3.1\Summer Shopping.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\1.5.2020\Summer Shopping\obj\Debug\netcoreapp3.1\Summer Shopping.AssemblyInfo.cs
+C:\Users\HP\source\repos\1.5.2020\Summer Shopping\obj\Debug\netcoreapp3.1\Summer Shopping.dll
+C:\Users\HP\source\repos\1.5.2020\Summer Shopping\obj\Debug\netcoreapp3.1\Summer Shopping.pdb

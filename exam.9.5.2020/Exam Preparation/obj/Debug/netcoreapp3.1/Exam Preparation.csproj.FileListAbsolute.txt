@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.exe
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.deps.json
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.runtimeconfig.json
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.runtimeconfig.dev.json
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.dll
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.pdb
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.AssemblyInfo.cs
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.dll
+C:\Users\HP\source\repos\exam.9.5.2020\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.pdb

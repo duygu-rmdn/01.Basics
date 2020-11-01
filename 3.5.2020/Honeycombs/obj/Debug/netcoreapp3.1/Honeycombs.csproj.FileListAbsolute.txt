@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\3.5.2020\Honeycombs\bin\Debug\netcoreapp3.1\Honeycombs.exe
+C:\Users\HP\source\repos\3.5.2020\Honeycombs\bin\Debug\netcoreapp3.1\Honeycombs.deps.json
+C:\Users\HP\source\repos\3.5.2020\Honeycombs\bin\Debug\netcoreapp3.1\Honeycombs.runtimeconfig.json
+C:\Users\HP\source\repos\3.5.2020\Honeycombs\bin\Debug\netcoreapp3.1\Honeycombs.runtimeconfig.dev.json
+C:\Users\HP\source\repos\3.5.2020\Honeycombs\bin\Debug\netcoreapp3.1\Honeycombs.dll
+C:\Users\HP\source\repos\3.5.2020\Honeycombs\bin\Debug\netcoreapp3.1\Honeycombs.pdb
+C:\Users\HP\source\repos\3.5.2020\Honeycombs\obj\Debug\netcoreapp3.1\Honeycombs.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\3.5.2020\Honeycombs\obj\Debug\netcoreapp3.1\Honeycombs.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\3.5.2020\Honeycombs\obj\Debug\netcoreapp3.1\Honeycombs.AssemblyInfo.cs
+C:\Users\HP\source\repos\3.5.2020\Honeycombs\obj\Debug\netcoreapp3.1\Honeycombs.dll
+C:\Users\HP\source\repos\3.5.2020\Honeycombs\obj\Debug\netcoreapp3.1\Honeycombs.pdb

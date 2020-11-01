@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zQcSrzw4FoohIMBCR+Ctniy7mIHzHSGXqWT0b3zYK/fmRYvS+xrr5GUZ8Vz2VE5bV/OocExcgcW6NJ4iLFc47w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Piramide\\Piramide\\Piramide.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

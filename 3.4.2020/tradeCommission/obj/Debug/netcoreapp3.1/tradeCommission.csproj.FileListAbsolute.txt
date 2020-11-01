@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\3.4.2020\tradeCommission\bin\Debug\netcoreapp3.1\tradeCommission.exe
+C:\Users\HP\source\repos\3.4.2020\tradeCommission\bin\Debug\netcoreapp3.1\tradeCommission.deps.json
+C:\Users\HP\source\repos\3.4.2020\tradeCommission\bin\Debug\netcoreapp3.1\tradeCommission.runtimeconfig.json
+C:\Users\HP\source\repos\3.4.2020\tradeCommission\bin\Debug\netcoreapp3.1\tradeCommission.runtimeconfig.dev.json
+C:\Users\HP\source\repos\3.4.2020\tradeCommission\bin\Debug\netcoreapp3.1\tradeCommission.dll
+C:\Users\HP\source\repos\3.4.2020\tradeCommission\bin\Debug\netcoreapp3.1\tradeCommission.pdb
+C:\Users\HP\source\repos\3.4.2020\tradeCommission\obj\Debug\netcoreapp3.1\tradeCommission.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\3.4.2020\tradeCommission\obj\Debug\netcoreapp3.1\tradeCommission.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\3.4.2020\tradeCommission\obj\Debug\netcoreapp3.1\tradeCommission.AssemblyInfo.cs
+C:\Users\HP\source\repos\3.4.2020\tradeCommission\obj\Debug\netcoreapp3.1\tradeCommission.dll
+C:\Users\HP\source\repos\3.4.2020\tradeCommission\obj\Debug\netcoreapp3.1\tradeCommission.pdb

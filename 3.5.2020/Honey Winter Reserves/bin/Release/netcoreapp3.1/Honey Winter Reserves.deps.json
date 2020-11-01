@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Honey Winter Reserves/1.0.0": {
+        "runtime": {
+          "Honey Winter Reserves.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Honey Winter Reserves/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

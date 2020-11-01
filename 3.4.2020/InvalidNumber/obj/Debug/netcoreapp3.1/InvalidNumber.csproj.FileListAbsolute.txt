@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\3.4.2020\InvalidNumber\bin\Debug\netcoreapp3.1\InvalidNumber.exe
+C:\Users\HP\source\repos\3.4.2020\InvalidNumber\bin\Debug\netcoreapp3.1\InvalidNumber.deps.json
+C:\Users\HP\source\repos\3.4.2020\InvalidNumber\bin\Debug\netcoreapp3.1\InvalidNumber.runtimeconfig.json
+C:\Users\HP\source\repos\3.4.2020\InvalidNumber\bin\Debug\netcoreapp3.1\InvalidNumber.runtimeconfig.dev.json
+C:\Users\HP\source\repos\3.4.2020\InvalidNumber\bin\Debug\netcoreapp3.1\InvalidNumber.dll
+C:\Users\HP\source\repos\3.4.2020\InvalidNumber\bin\Debug\netcoreapp3.1\InvalidNumber.pdb
+C:\Users\HP\source\repos\3.4.2020\InvalidNumber\obj\Debug\netcoreapp3.1\InvalidNumber.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\3.4.2020\InvalidNumber\obj\Debug\netcoreapp3.1\InvalidNumber.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\3.4.2020\InvalidNumber\obj\Debug\netcoreapp3.1\InvalidNumber.AssemblyInfo.cs
+C:\Users\HP\source\repos\3.4.2020\InvalidNumber\obj\Debug\netcoreapp3.1\InvalidNumber.dll
+C:\Users\HP\source\repos\3.4.2020\InvalidNumber\obj\Debug\netcoreapp3.1\InvalidNumber.pdb

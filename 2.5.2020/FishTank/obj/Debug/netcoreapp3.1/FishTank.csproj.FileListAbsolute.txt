@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\2.5.2020\FishTank\bin\Debug\netcoreapp3.1\FishTank.exe
+C:\Users\HP\source\repos\2.5.2020\FishTank\bin\Debug\netcoreapp3.1\FishTank.deps.json
+C:\Users\HP\source\repos\2.5.2020\FishTank\bin\Debug\netcoreapp3.1\FishTank.runtimeconfig.json
+C:\Users\HP\source\repos\2.5.2020\FishTank\bin\Debug\netcoreapp3.1\FishTank.runtimeconfig.dev.json
+C:\Users\HP\source\repos\2.5.2020\FishTank\bin\Debug\netcoreapp3.1\FishTank.dll
+C:\Users\HP\source\repos\2.5.2020\FishTank\bin\Debug\netcoreapp3.1\FishTank.pdb
+C:\Users\HP\source\repos\2.5.2020\FishTank\obj\Debug\netcoreapp3.1\FishTank.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\2.5.2020\FishTank\obj\Debug\netcoreapp3.1\FishTank.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\2.5.2020\FishTank\obj\Debug\netcoreapp3.1\FishTank.AssemblyInfo.cs
+C:\Users\HP\source\repos\2.5.2020\FishTank\obj\Debug\netcoreapp3.1\FishTank.dll
+C:\Users\HP\source\repos\2.5.2020\FishTank\obj\Debug\netcoreapp3.1\FishTank.pdb

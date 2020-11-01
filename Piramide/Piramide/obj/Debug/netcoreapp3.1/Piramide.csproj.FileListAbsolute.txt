@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Piramide\Piramide\bin\Debug\netcoreapp3.1\Piramide.exe
+C:\Users\HP\source\repos\Piramide\Piramide\bin\Debug\netcoreapp3.1\Piramide.deps.json
+C:\Users\HP\source\repos\Piramide\Piramide\bin\Debug\netcoreapp3.1\Piramide.runtimeconfig.json
+C:\Users\HP\source\repos\Piramide\Piramide\bin\Debug\netcoreapp3.1\Piramide.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Piramide\Piramide\bin\Debug\netcoreapp3.1\Piramide.dll
+C:\Users\HP\source\repos\Piramide\Piramide\bin\Debug\netcoreapp3.1\Piramide.pdb
+C:\Users\HP\source\repos\Piramide\Piramide\obj\Debug\netcoreapp3.1\Piramide.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Piramide\Piramide\obj\Debug\netcoreapp3.1\Piramide.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Piramide\Piramide\obj\Debug\netcoreapp3.1\Piramide.AssemblyInfo.cs
+C:\Users\HP\source\repos\Piramide\Piramide\obj\Debug\netcoreapp3.1\Piramide.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Piramide\Piramide\obj\Debug\netcoreapp3.1\Piramide.dll
+C:\Users\HP\source\repos\Piramide\Piramide\obj\Debug\netcoreapp3.1\Piramide.pdb
+C:\Users\HP\source\repos\Piramide\Piramide\obj\Debug\netcoreapp3.1\Piramide.genruntimeconfig.cache

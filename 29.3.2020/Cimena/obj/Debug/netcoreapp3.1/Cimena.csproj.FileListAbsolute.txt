@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\29.3.2020\Cimena\bin\Debug\netcoreapp3.1\Cimena.exe
+C:\Users\HP\source\repos\29.3.2020\Cimena\bin\Debug\netcoreapp3.1\Cimena.deps.json
+C:\Users\HP\source\repos\29.3.2020\Cimena\bin\Debug\netcoreapp3.1\Cimena.runtimeconfig.json
+C:\Users\HP\source\repos\29.3.2020\Cimena\bin\Debug\netcoreapp3.1\Cimena.runtimeconfig.dev.json
+C:\Users\HP\source\repos\29.3.2020\Cimena\bin\Debug\netcoreapp3.1\Cimena.dll
+C:\Users\HP\source\repos\29.3.2020\Cimena\bin\Debug\netcoreapp3.1\Cimena.pdb
+C:\Users\HP\source\repos\29.3.2020\Cimena\obj\Debug\netcoreapp3.1\Cimena.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\29.3.2020\Cimena\obj\Debug\netcoreapp3.1\Cimena.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\29.3.2020\Cimena\obj\Debug\netcoreapp3.1\Cimena.AssemblyInfo.cs
+C:\Users\HP\source\repos\29.3.2020\Cimena\obj\Debug\netcoreapp3.1\Cimena.dll
+C:\Users\HP\source\repos\29.3.2020\Cimena\obj\Debug\netcoreapp3.1\Cimena.pdb

@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\2.5.2020\Volleyball\bin\Debug\netcoreapp3.1\Volleyball.exe
+C:\Users\HP\source\repos\2.5.2020\Volleyball\bin\Debug\netcoreapp3.1\Volleyball.deps.json
+C:\Users\HP\source\repos\2.5.2020\Volleyball\bin\Debug\netcoreapp3.1\Volleyball.runtimeconfig.json
+C:\Users\HP\source\repos\2.5.2020\Volleyball\bin\Debug\netcoreapp3.1\Volleyball.runtimeconfig.dev.json
+C:\Users\HP\source\repos\2.5.2020\Volleyball\bin\Debug\netcoreapp3.1\Volleyball.dll
+C:\Users\HP\source\repos\2.5.2020\Volleyball\bin\Debug\netcoreapp3.1\Volleyball.pdb
+C:\Users\HP\source\repos\2.5.2020\Volleyball\obj\Debug\netcoreapp3.1\Volleyball.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\2.5.2020\Volleyball\obj\Debug\netcoreapp3.1\Volleyball.AssemblyInfo.cs
+C:\Users\HP\source\repos\2.5.2020\Volleyball\obj\Debug\netcoreapp3.1\Volleyball.dll
+C:\Users\HP\source\repos\2.5.2020\Volleyball\obj\Debug\netcoreapp3.1\Volleyball.pdb
+C:\Users\HP\source\repos\2.5.2020\Volleyball\obj\Debug\netcoreapp3.1\Volleyball.csprojAssemblyReference.cache

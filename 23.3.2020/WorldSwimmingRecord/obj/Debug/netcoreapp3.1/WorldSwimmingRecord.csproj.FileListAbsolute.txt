@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\23.3.2020\WorldSwimmingRecord\bin\Debug\netcoreapp3.1\WorldSwimmingRecord.exe
+C:\Users\HP\source\repos\23.3.2020\WorldSwimmingRecord\bin\Debug\netcoreapp3.1\WorldSwimmingRecord.deps.json
+C:\Users\HP\source\repos\23.3.2020\WorldSwimmingRecord\bin\Debug\netcoreapp3.1\WorldSwimmingRecord.runtimeconfig.json
+C:\Users\HP\source\repos\23.3.2020\WorldSwimmingRecord\bin\Debug\netcoreapp3.1\WorldSwimmingRecord.runtimeconfig.dev.json
+C:\Users\HP\source\repos\23.3.2020\WorldSwimmingRecord\bin\Debug\netcoreapp3.1\WorldSwimmingRecord.dll
+C:\Users\HP\source\repos\23.3.2020\WorldSwimmingRecord\bin\Debug\netcoreapp3.1\WorldSwimmingRecord.pdb
+C:\Users\HP\source\repos\23.3.2020\WorldSwimmingRecord\obj\Debug\netcoreapp3.1\WorldSwimmingRecord.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\23.3.2020\WorldSwimmingRecord\obj\Debug\netcoreapp3.1\WorldSwimmingRecord.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\23.3.2020\WorldSwimmingRecord\obj\Debug\netcoreapp3.1\WorldSwimmingRecord.AssemblyInfo.cs
+C:\Users\HP\source\repos\23.3.2020\WorldSwimmingRecord\obj\Debug\netcoreapp3.1\WorldSwimmingRecord.dll
+C:\Users\HP\source\repos\23.3.2020\WorldSwimmingRecord\obj\Debug\netcoreapp3.1\WorldSwimmingRecord.pdb

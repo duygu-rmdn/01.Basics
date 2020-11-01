@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\1.5.2020\Cruise Ship\bin\Debug\netcoreapp3.1\Cruise Ship.exe
+C:\Users\HP\source\repos\1.5.2020\Cruise Ship\bin\Debug\netcoreapp3.1\Cruise Ship.deps.json
+C:\Users\HP\source\repos\1.5.2020\Cruise Ship\bin\Debug\netcoreapp3.1\Cruise Ship.runtimeconfig.json
+C:\Users\HP\source\repos\1.5.2020\Cruise Ship\bin\Debug\netcoreapp3.1\Cruise Ship.runtimeconfig.dev.json
+C:\Users\HP\source\repos\1.5.2020\Cruise Ship\bin\Debug\netcoreapp3.1\Cruise Ship.dll
+C:\Users\HP\source\repos\1.5.2020\Cruise Ship\bin\Debug\netcoreapp3.1\Cruise Ship.pdb
+C:\Users\HP\source\repos\1.5.2020\Cruise Ship\obj\Debug\netcoreapp3.1\Cruise Ship.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\1.5.2020\Cruise Ship\obj\Debug\netcoreapp3.1\Cruise Ship.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\1.5.2020\Cruise Ship\obj\Debug\netcoreapp3.1\Cruise Ship.AssemblyInfo.cs
+C:\Users\HP\source\repos\1.5.2020\Cruise Ship\obj\Debug\netcoreapp3.1\Cruise Ship.dll
+C:\Users\HP\source\repos\1.5.2020\Cruise Ship\obj\Debug\netcoreapp3.1\Cruise Ship.pdb

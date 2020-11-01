@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\25.4.2020\цлоцк\bin\Debug\netcoreapp3.1\цлоцк.exe
+C:\Users\HP\source\repos\25.4.2020\цлоцк\bin\Debug\netcoreapp3.1\цлоцк.deps.json
+C:\Users\HP\source\repos\25.4.2020\цлоцк\bin\Debug\netcoreapp3.1\цлоцк.runtimeconfig.json
+C:\Users\HP\source\repos\25.4.2020\цлоцк\bin\Debug\netcoreapp3.1\цлоцк.runtimeconfig.dev.json
+C:\Users\HP\source\repos\25.4.2020\цлоцк\bin\Debug\netcoreapp3.1\цлоцк.dll
+C:\Users\HP\source\repos\25.4.2020\цлоцк\bin\Debug\netcoreapp3.1\цлоцк.pdb
+C:\Users\HP\source\repos\25.4.2020\цлоцк\obj\Debug\netcoreapp3.1\цлоцк.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\25.4.2020\цлоцк\obj\Debug\netcoreapp3.1\цлоцк.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\25.4.2020\цлоцк\obj\Debug\netcoreapp3.1\цлоцк.AssemblyInfo.cs
+C:\Users\HP\source\repos\25.4.2020\цлоцк\obj\Debug\netcoreapp3.1\цлоцк.dll
+C:\Users\HP\source\repos\25.4.2020\цлоцк\obj\Debug\netcoreapp3.1\цлоцк.pdb

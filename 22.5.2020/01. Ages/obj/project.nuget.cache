@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UxYA4Zfqxb0wLeDS+9YiqdXWQWpxnisldraq77j8lO4KZmexUTDbKXNGVGZwv6PBUYHyXay5ZV9gALWl+TnLsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\22.5.2020\\01. Ages\\01. Ages.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
