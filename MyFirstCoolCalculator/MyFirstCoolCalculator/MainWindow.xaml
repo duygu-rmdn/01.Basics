@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MyFirstCoolCalculator"
         mc:Ignorable="d"
-        Title="miss.D's calculator" Height="450" Width="800">
-    <Grid HorizontalAlignment="Center" Width="800">
+        Title="miss.D's calculator" Height="450" Width="299">
+    <Grid HorizontalAlignment="Center" Width="274">
         <Button x:Name="nmu1" Content="1" HorizontalAlignment="Left" Height="50" Margin="15,295,0,0" VerticalAlignment="Top" Width="50" Click="num1_Click"/>
         <Button x:Name="num2" Content="2" HorizontalAlignment="Left" Height="50" Margin="80,295,0,0" VerticalAlignment="Top" Width="50" Click="num2_Click"/>
         <Button x:Name="num3" Content="3" HorizontalAlignment="Left" Height="50" Margin="145,295,0,0" VerticalAlignment="Top" Width="50" Click="num3_Click"/>

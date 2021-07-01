@@ -55,7 +55,14 @@ namespace MyFirstCoolCalculator
             }
             else if (operatorSing == "/")
             {
-                result = Firstnum / Secondnum;
+                if (Secondnum == 0)
+                {
+                    result = 0;
+                }
+                else
+                {
+                    result = Firstnum / Secondnum;
+                }
             }
 
             DisplayBox.Text = result.ToString();
@@ -65,9 +72,15 @@ namespace MyFirstCoolCalculator
 
         private void Delite_Click(object sender, RoutedEventArgs e)
         {
-            int tempNum = int.Parse(DisplayBox.Text);
-            tempNum = tempNum / 10;
-            DisplayBox.Text = tempNum.ToString();
+            string tempNum = DisplayBox.Text;
+            //string item = "";
+            //string newTemp = "";
+            //for (int i = tempNum.Length - 1; i > 0; i--)
+            //{
+            //    item += tempNum[i];
+            //}
+            //newTemp += item.Reverse();
+            //DisplayBox.Text = item.ToString();
         }
         private void DeliteAll_Click(object sender, RoutedEventArgs e)
         {
@@ -134,93 +147,61 @@ namespace MyFirstCoolCalculator
         // numbers
         private void num0_Click(object sender, RoutedEventArgs e)
         {
-            if (DisplayBox.Text == "0")
-            {
-                DisplayBox.Text = "";
-            }
-            DisplayBox.Text += "0";
+            Nums("0");
         }
         private void num1_Click(object sender, RoutedEventArgs e)
         {
-            if (DisplayBox.Text == "0")
-            {
-                DisplayBox.Text = "";
-            }
-            DisplayBox.Text += "1";
+            Nums("1");
         }
 
         private void num2_Click(object sender, RoutedEventArgs e)
         {
-            if (DisplayBox.Text == "0")
-            {
-                DisplayBox.Text = "";
-            }
-            DisplayBox.Text += "2";
+            Nums("2");
         }
 
         private void num3_Click(object sender, RoutedEventArgs e)
         {
-            if (DisplayBox.Text == "0")
-            {
-                DisplayBox.Text = "";
-            }
-            DisplayBox.Text += "3";
+            Nums("3");
         }
 
         private void num4_Click(object sender, RoutedEventArgs e)
         {
-            if (DisplayBox.Text == "0")
-            {
-                DisplayBox.Text = "";
-            }
-            DisplayBox.Text += "4";
+            Nums("4");
         }
 
         private void num5_Click(object sender, RoutedEventArgs e)
         {
-            if (DisplayBox.Text == "0")
-            {
-                DisplayBox.Text = "";
-            }
-            DisplayBox.Text += "5";
+            Nums("5");
         }
 
         private void num6_Click(object sender, RoutedEventArgs e)
         {
-            if (DisplayBox.Text == "0")
-            {
-                DisplayBox.Text = "";
-            }
-            DisplayBox.Text += "6";
+            Nums("6");
         }
 
         private void num7_Click(object sender, RoutedEventArgs e)
         {
-            if (DisplayBox.Text == "0")
-            {
-                DisplayBox.Text = "";
-            }
-            DisplayBox.Text += "7";
+            Nums("7");
         }
 
         private void num8_Click(object sender, RoutedEventArgs e)
         {
-            if (DisplayBox.Text == "0")
-            {
-                DisplayBox.Text = "";
-            }
-            DisplayBox.Text += "8";
+            Nums("8");
         }
 
         private void num9_Click(object sender, RoutedEventArgs e)
+        {
+            Nums("9");
+        }
+
+        private void Nums(string num)
         {
             if (DisplayBox.Text == "0")
             {
                 DisplayBox.Text = "";
             }
-            DisplayBox.Text += "9";
+            DisplayBox.Text += num;
         }
-
 
     }
 }

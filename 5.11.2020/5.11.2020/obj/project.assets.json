@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\5.11.2020\\5.11.2020\\5.11.2020.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\01.Basics\\5.11.2020\\5.11.2020\\5.11.2020.csproj",
       "projectName": "5.11.2020",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\5.11.2020\\5.11.2020\\5.11.2020.csproj",
+      "projectPath": "C:\\Users\\HP\\source\\repos\\01.Basics\\5.11.2020\\5.11.2020\\5.11.2020.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\5.11.2020\\5.11.2020\\obj\\",
+      "outputPath": "C:\\Users\\HP\\source\\repos\\01.Basics\\5.11.2020\\5.11.2020\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,12 +53,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.2, 3.1.2]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

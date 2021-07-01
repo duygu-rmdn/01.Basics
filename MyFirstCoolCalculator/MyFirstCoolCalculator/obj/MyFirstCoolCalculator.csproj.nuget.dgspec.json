@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\MyFirstCoolCalculator\\MyFirstCoolCalculator\\MyFirstCoolCalculator.csproj": {}
+    "C:\\Users\\HP\\source\\repos\\01.Basics\\MyFirstCoolCalculator\\MyFirstCoolCalculator\\MyFirstCoolCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\MyFirstCoolCalculator\\MyFirstCoolCalculator\\MyFirstCoolCalculator.csproj": {
+    "C:\\Users\\HP\\source\\repos\\01.Basics\\MyFirstCoolCalculator\\MyFirstCoolCalculator\\MyFirstCoolCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\MyFirstCoolCalculator\\MyFirstCoolCalculator\\MyFirstCoolCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\01.Basics\\MyFirstCoolCalculator\\MyFirstCoolCalculator\\MyFirstCoolCalculator.csproj",
         "projectName": "MyFirstCoolCalculator",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\MyFirstCoolCalculator\\MyFirstCoolCalculator\\MyFirstCoolCalculator.csproj",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\01.Basics\\MyFirstCoolCalculator\\MyFirstCoolCalculator\\MyFirstCoolCalculator.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\MyFirstCoolCalculator\\MyFirstCoolCalculator\\obj\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\01.Basics\\MyFirstCoolCalculator\\MyFirstCoolCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
